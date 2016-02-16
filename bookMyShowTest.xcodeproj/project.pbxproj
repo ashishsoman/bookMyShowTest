@@ -159,6 +159,7 @@
 		75B2750C1C72E61000F159DC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = bcwebwise;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				75B275371C72E61100F159DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		75B275381C72E61100F159DC /* Build configuration list for PBXNativeTarget "bookMyShowTestTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				75B2753A1C72E61100F159DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
